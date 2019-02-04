@@ -32,4 +32,4 @@ we know that standardized tests are a valid predictor of success in admission at
 We have adopted a data-driven approach towards quantifying the probability of successful admission or enrollment into college institutions dependent solely upon certain quantitative factors. Our
 objective with this analysis is two-fold. The first objective is to understand what factors are significant and relevant in
 determining enrollment and to what degree. In doing so, we draw inferences about relationships between the factors and identify any 
-dependency that exists between them.
+dependency that exists between them. The second objective is to build upon the first to develop a predictive model based on regression that can compute probability of an admit
