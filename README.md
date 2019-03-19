@@ -4,7 +4,7 @@
 
 This analysis is part of the final project in the course STAT 6021:Linear Models.
 
-The project is Regression Analysis on Graduate Admissions Data in R and I performed this as part of a group of 5 students. We received a A+ in the assessment of this project.
+The project is Regression Analysis on Graduate Admissions Data in R and I performed this as part of a group of 5 students.
 A brief background on the project is given below. For more detailed information on the project literature and the methodology,hypothesis,insights,etc
 regarding the analysis, please refer to the PDF report in my repo.
 
